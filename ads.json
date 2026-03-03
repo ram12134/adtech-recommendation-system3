@@ -1,0 +1,25 @@
+{
+  "0": {
+    "ad_name": "Puzzle Game",
+    "network": "Google",
+    "genre": "Puzzle"
+  },
+
+  "1": {
+    "ad_name": "Action Game",
+    "network": "Facebook",
+    "genre": "Action"
+  },
+
+  "2": {
+    "ad_name": "RPG Game",
+    "network": "Unity",
+    "genre": "RPG"
+  },
+
+  "3": {
+    "ad_name": "Casual Game",
+    "network": "TikTok",
+    "genre": "Casual"
+  }
+}
